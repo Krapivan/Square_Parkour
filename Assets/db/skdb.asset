@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32e7a717f7b7edb459de427f79398303, type: 3}
+  m_Name: skdb
+  m_EditorClassIdentifier: 
+  skin_now: 1
+  skin_ch: 2
+  skin_name:
+  - SLIMY
+  - GHOUSTY
+  - SEYATEL
+  - LOVER
+  - TOOXIC
+  - SADPAPER
+  - LEATHY
+  - ANGELY
+  skin_all:
+  - {fileID: 21300000, guid: 3bd7afba1b247f74aa0645c970159d04, type: 3}
+  - {fileID: 21300000, guid: b53e4d953f950294db4440c35d3ed150, type: 3}
+  - {fileID: 21300000, guid: 3dfcd34d38820a148913683d8a45c3f4, type: 3}
+  - {fileID: 21300000, guid: 0a6c723c355925a4ebe99df5a1ac6225, type: 3}
+  - {fileID: 21300000, guid: df9036041c6fe6f479fe0f8521ad1042, type: 3}
+  - {fileID: 21300000, guid: 66ec1fc3d01c6194fac77552a5ec8c69, type: 3}
+  - {fileID: 21300000, guid: 5a6b943cdf44e714da6a44433b96b199, type: 3}
+  - {fileID: 21300000, guid: f08df28e328151f4ba20bfb507633afd, type: 3}
+  skin_price: 00000000280000005000000078000000a0000000c8000000f000000018010000
+  skin_have: 0000000000000000000000000000000000000000000000000000000000000000
+  spr:
+  - {fileID: 21300000, guid: f99aa8709bbbb4d47b34d5dcb5700241, type: 3}
+  - {fileID: 21300000, guid: 86163b24cd8f3b54eb25a4d347a68124, type: 3}
+  - {fileID: 21300000, guid: daa16487fac63af49a83bccd086f25cc, type: 3}
+  rj:
+  - {fileID: 21300000, guid: 458ee49625d42b54eb9e3f1df7e1f672, type: 3}
+  - {fileID: 21300000, guid: 4976772e7ea63d5499a6cd69568cdc74, type: 3}
+  rj_name:
+  - CLASSIC
+  - SPIKES RAIN
+  rj_now: 0
